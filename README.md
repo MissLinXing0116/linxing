@@ -1,0 +1,2 @@
+# linxing
+My first github
